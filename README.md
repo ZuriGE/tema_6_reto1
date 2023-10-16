@@ -1,1 +1,2 @@
 # tema_6_reto1
+1. al mergear 2 ramas con contenidos que se contradicen, git nos muestra un conflicto. Abriendo desde VS el "merge editor" me permite seleccionar con qué me quiero quedar (en este caso con la rama 2)
